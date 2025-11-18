@@ -13165,12 +13165,12 @@ const Vg = () => {
       , [a,h] = L.useState(null)
       , [m,d] = L.useState(0)
       , [y,g] = L.useState({
-        link: "https://r2.fivemanage.com/j0YlVJ9wWJTFeImwfmRK2/OSINTBypassPhazeBanner.png",
+        link: "https://i.ibb.co/9mkpjQdf/image.jpg",
         color: "200, 0, 0"
     })
       , [v,P] = L.useState("0vw")
       , [f,c] = L.useState("1.5625vw")
-      , [p,w] = L.useState("OSINTBypass")
+      , [p,w] = L.useState("Hex Menu")
       , [_,E] = L.useState("0%")
       , [k,O] = L.useState("0%")
       , V = L.useRef([]);
@@ -13506,7 +13506,7 @@ const Vg = () => {
                                 className: "PFooter",
                                 children: [x("span", {
                                     className: "PBuild",
-                                    children: "OSINT Bypass (v1.0.0)"
+                                    children: "Hex Menu"
                                 }), U("span", {
                                     className: "PIndicator",
                                     children: ["(", r.filter(S => S.type !== "divider").indexOf(r[i]) + 1, "/", r.filter(S => S.type !== "divider").length, ")"]
