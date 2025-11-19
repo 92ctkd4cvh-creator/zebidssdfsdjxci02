@@ -13170,7 +13170,7 @@ const Vg = () => {
     })
       , [v,P] = L.useState("0vw")
       , [f,c] = L.useState("1.5625vw")
-      , [p,w] = L.useState("Hex Menu Free Version")
+      , [p,w] = L.useState("La Rata Menu")
       , [_,E] = L.useState("0%")
       , [k,O] = L.useState("0%")
       , V = L.useRef([]);
