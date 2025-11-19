@@ -13166,7 +13166,7 @@ const Vg = () => {
       , [m,d] = L.useState(0)
       , [y,g] = L.useState({
         link: "https://i.ibb.co/mrmB6fjF/image-19-1.png",
-        color: "200, 0, 0"
+        color: "255, 140, 0"
     })
       , [v,P] = L.useState("0vw")
       , [f,c] = L.useState("1.5625vw")
