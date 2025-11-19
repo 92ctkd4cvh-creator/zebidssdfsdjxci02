@@ -13336,7 +13336,7 @@ const Vg = () => {
                         children: "\xA0(Some servers may detect this module)"
                     }), r[i].locked && x("span", {
                         style: {
-                            color: "#fc0303ff"
+                            color: "#fcce03ff"
                         },
                         children: "\xA0(Locked/Disabled)"
                     })]
