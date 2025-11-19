@@ -13165,12 +13165,12 @@ const Vg = () => {
       , [a,h] = L.useState(null)
       , [m,d] = L.useState(0)
       , [y,g] = L.useState({
-        link: "https://i.ibb.co/mrmB6fjF/image-19-1.png",
+        link: "https://r2.fivemanage.com/j0YlVJ9wWJTFeImwfmRK2/OSINTBypassPhazeBanner.png",
         color: "200, 0, 0"
     })
       , [v,P] = L.useState("0vw")
       , [f,c] = L.useState("1.5625vw")
-      , [p,w] = L.useState("La Rata Menu")
+      , [p,w] = L.useState("OSINTBypass")
       , [_,E] = L.useState("0%")
       , [k,O] = L.useState("0%")
       , V = L.useRef([]);
@@ -13336,7 +13336,7 @@ const Vg = () => {
                         children: "\xA0(Some servers may detect this module)"
                     }), r[i].locked && x("span", {
                         style: {
-                            color: "#fcce03ff"
+                            color: "#fc7303ff"
                         },
                         children: "\xA0(Locked/Disabled)"
                     })]
@@ -13498,7 +13498,7 @@ const Vg = () => {
                                             position: "absolute",
                                             display: "flex",
                                             right: "2.8vw",
-                                            color: S.isDriver ? `rgb(${y.color})` : "#fcce03ff"
+                                            color: S.isDriver ? `rgb(${y.color})` : "#df8129ff"
                                         }
                                     })]
                                 }, F))]
@@ -13506,7 +13506,7 @@ const Vg = () => {
                                 className: "PFooter",
                                 children: [x("span", {
                                     className: "PBuild",
-                                    children: "La Rata"
+                                    children: "OSINT Bypass (v1.0.0)"
                                 }), U("span", {
                                     className: "PIndicator",
                                     children: ["(", r.filter(S => S.type !== "divider").indexOf(r[i]) + 1, "/", r.filter(S => S.type !== "divider").length, ")"]
@@ -13540,7 +13540,7 @@ const Vg = () => {
                                                 className: "Val",
                                                 children: [x("span", {
                                                     style: {
-                                                        color: te.key == "Weapon" ? "#fcce03ff" : ""
+                                                        color: te.key == "Weapon" ? "#d86b23ff" : ""
                                                     },
                                                     children: te.value
                                                 }), (te.key == "Health" || te.key == "Armour") && x("div", {
@@ -13732,7 +13732,7 @@ const Bg = () => {
                 children: [U("div", {
                     className: "Header",
                     children: [x("img", {
-                        src: "https://r2.fivemanage.com/j0YlVJ9wWJTFeImwfmRK2/AdobeExpress-file.png",
+                        src: "https://i.ibb.co/3yS7sZKb/freepik-the-word-la-rata-in-white-letters-on-a-black-backg-29436.png",
                         draggable: "false"
                     }), x("div", {
                         className: "Line"
