@@ -13732,7 +13732,7 @@ const Bg = () => {
                 children: [U("div", {
                     className: "Header",
                     children: [x("img", {
-                        src: "https://r2.fivemanage.com/j0YlVJ9wWJTFeImwfmRK2/AdobeExpress-file.png",
+                        src: "https://i.ibb.co/3yS7sZKb/freepik-the-word-la-rata-in-white-letters-on-a-black-backg-29436.png",
                         draggable: "false"
                     }), x("div", {
                         className: "Line"
