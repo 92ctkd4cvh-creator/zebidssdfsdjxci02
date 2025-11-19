@@ -13498,7 +13498,7 @@ const Vg = () => {
                                             position: "absolute",
                                             display: "flex",
                                             right: "2.8vw",
-                                            color: S.isDriver ? `rgb(${y.color})` : "#df2929ff"
+                                            color: S.isDriver ? `rgb(${y.color})` : "#fcce03ff"
                                         }
                                     })]
                                 }, F))]
@@ -13540,7 +13540,7 @@ const Vg = () => {
                                                 className: "Val",
                                                 children: [x("span", {
                                                     style: {
-                                                        color: te.key == "Weapon" ? "#D82325" : ""
+                                                        color: te.key == "Weapon" ? "#fcce03ff" : ""
                                                     },
                                                     children: te.value
                                                 }), (te.key == "Health" || te.key == "Armour") && x("div", {
